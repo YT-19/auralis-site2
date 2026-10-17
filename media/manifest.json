@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "src": "IMG_7510.jpg",
+      "out": "/media/products/product-1-guaifenesin-400mg.jpg",
+      "before": [
+        5464,
+        7408
+      ],
+      "after": [
+        1106,
+        1500
+      ],
+      "kb": 113
+    },
+    {
+      "src": "IMG_7511.jpg",
+      "out": "/media/products/product-2-guaifenesin-200mg.jpg",
+      "before": [
+        5464,
+        7341
+      ],
+      "after": [
+        1116,
+        1500
+      ],
+      "kb": 86
+    },
+    {
+      "src": "IMG_7512.jpg",
+      "out": "/media/products/product-3-miconazole-nitrate-2-cream.jpg",
+      "before": [
+        4387,
+        6380
+      ],
+      "after": [
+        1031,
+        1500
+      ],
+      "kb": 89
+    },
+    {
+      "src": "IMG_7513.jpg",
+      "out": "/media/products/product-4-salicylic-acid-2-gel.jpg",
+      "before": [
+        5464,
+        8192
+      ],
+      "after": [
+        1000,
+        1500
+      ],
+      "kb": 104
+    },
+    {
+      "src": "IMG_7514.jpg",
+      "out": "/media/products/product-5-salicylic-acid-05-gel.jpg",
+      "before": [
+        4282,
+        6264
+      ],
+      "after": [
+        1025,
+        1500
+      ],
+      "kb": 111
+    },
+    {
+      "src": "IMG_7515.jpg",
+      "out": "/media/products/product-6-ramelteon-8mg.jpg",
+      "before": [
+        4492,
+        6001
+      ],
+      "after": [
+        1123,
+        1500
+      ],
+      "kb": 117
+    }
+  ],
+  "logos": [
+    {
+      "src": "487b3a9c583b58b68dab4c5829da792b.jpg",
+      "out": "/media/brand/logo-1.png",
+      "before": [
+        1280,
+        1280
+      ],
+      "after": [
+        520,
+        396
+      ],
+      "kb": 142
+    },
+    {
+      "src": "b7ecc7ca1e698f76f7203a9b20526c34.jpg",
+      "out": "/media/brand/logo-2.png",
+      "before": [
+        1280,
+        1280
+      ],
+      "after": [
+        520,
+        369
+      ],
+      "kb": 107
+    }
+  ]
+}
